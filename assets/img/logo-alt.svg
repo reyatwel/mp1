@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 29.1 28" style="enable-background:new 0 0 29.1 28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3F3F69;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{display:none;}
+	.st4{display:inline;}
+	.st5{font-family:'Montserrat-Bold';}
+	.st6{font-size:4.2507px;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M16.7,22c0,2.3-1.8,4.1-4.1,4.1H5.4c-2.3,0-4.1-1.8-4.1-4.1l0,0c0-2.3,1.8-4.1,4.1-4.1h7.3
+				C14.9,17.9,16.7,19.7,16.7,22L16.7,22z"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.92" y1="11.9318" x2="25.7533" y2="25.2496">
+				<stop  offset="0.1667" style="stop-color:#4674B3"/>
+				<stop  offset="0.3322" style="stop-color:#4878B3"/>
+				<stop  offset="0.4973" style="stop-color:#4F84B4"/>
+				<stop  offset="0.6624" style="stop-color:#5998B4"/>
+				<stop  offset="0.8273" style="stop-color:#69B4B6"/>
+				<stop  offset="0.9909" style="stop-color:#7CD8B7"/>
+				<stop  offset="1" style="stop-color:#7DDAB7"/>
+			</linearGradient>
+			<path class="st1" d="M26,25.6c2-1.2,2.6-3.7,1.5-5.6l-3.7-6.1c-1.2-2-3.7-2.6-5.6-1.5l0,0c-2,1.2-2.6,3.7-1.5,5.6l3.7,6.1
+				C21.5,26.1,24,26.7,26,25.6L26,25.6z"/>
+		</g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3.8746" y1="28.8159" x2="16.2435" y2="7.2801">
+			<stop  offset="0.1667" style="stop-color:#4674B3"/>
+			<stop  offset="0.3322" style="stop-color:#4878B3"/>
+			<stop  offset="0.4973" style="stop-color:#4F84B4"/>
+			<stop  offset="0.6624" style="stop-color:#5998B4"/>
+			<stop  offset="0.8273" style="stop-color:#69B4B6"/>
+			<stop  offset="0.9909" style="stop-color:#7CD8B7"/>
+			<stop  offset="1" style="stop-color:#7DDAB7"/>
+		</linearGradient>
+		<path class="st2" d="M16.6,2.6c-2-1.2-4.5-0.5-5.6,1.5L1.6,19.9c-1.2,2-0.5,4.5,1.5,5.6c0.7,0.4,1.5,0.6,2.3,0.6h7.1
+			c0.1,0,0.2,0,0.3,0c-0.1,0-0.2,0-0.2,0c-5.4,0-2.4-4.4-2.4-4.4l0,0l7.9-13.4C19.2,6.3,18.6,3.8,16.6,2.6z"/>
+	</g>
+	<g class="st3">
+		<g class="st4">
+			<text transform="matrix(1 0 0 1 5.3244 31.5204)" class="st0 st5 st6">Lorem</text>
+		</g>
+		
+			<text transform="matrix(1 0 0 1 5.3254 35.4237)" style="display:inline;fill:#7DDAB7; font-family:'Montserrat-Black'; font-size:4.5317px;">Ipsum</text>
+		<g class="st4">
+			
+				<text transform="matrix(1 0 0 1 7.4792 37.3084)" class="st0" style="font-family:'Montserrat-Medium'; font-size:1.2577px; letter-spacing:1;">designs</text>
+		</g>
+	</g>
+</g>
+</svg>
